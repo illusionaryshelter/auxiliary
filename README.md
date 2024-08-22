@@ -1,5 +1,5 @@
 # fast_embed
-auxiliary macro header
+auxiliary macro header for self
 
 
 example:
