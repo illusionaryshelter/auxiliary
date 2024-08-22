@@ -1,5 +1,6 @@
 # fast_embed
 auxiliary macro header for self
+this lib is macro-only
 
 
 example:
