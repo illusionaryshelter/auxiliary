@@ -2,7 +2,7 @@
 auxiliary macro header for self
 
 
-this lib is macro-only
+this lib is header-only
 
 
 example:
