@@ -1,8 +1,8 @@
 # auxiliary
-auxiliary macro header for self
+an auxiliary macro header for self
 
 
-this lib is header-only
+header-only
 
 
 example:
